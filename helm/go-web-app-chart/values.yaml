@@ -1,4 +1,3 @@
-
 # Default values for go-web-app-chart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
@@ -21,4 +20,3 @@ ingress:
       paths:
         - path: /
           pathType: ImplementationSpecific
-
