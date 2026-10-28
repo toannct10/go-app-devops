@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: shinct123/go-web-app
   pullPolicy: IfNotPresent
-  tag: "40627917914"
+  tag: "40629639571"
 
 ingress:
   enabled: false
