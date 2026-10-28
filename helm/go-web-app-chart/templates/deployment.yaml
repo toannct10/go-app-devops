@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: go-app
-          image: shinct123/go-app:{{ .Values.image.tag }}
+          image: shinct123/go-web-app:{{ .Values.image.tag }}
           ports:
             - containerPort: 80
