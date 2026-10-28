@@ -8,7 +8,7 @@ replicaCount: 1
 image:
   repository: shinct123/go-app
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: "40627917914"
 
 ingress:
   enabled: false
